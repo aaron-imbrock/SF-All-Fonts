@@ -9,7 +9,7 @@ Installation
 ```
 # Create correct local fonts directory, and copy contents
 
-mkdir -p ~/.local/share/fonts/sf-pro
+mkdir -p ~/.local/share/fonts/sf-family/
 cp ~/src/SF-All-Fonts/*/*.otf ~/.local/share/fonts/sf-family/
 
 # Regenerate the font cache
